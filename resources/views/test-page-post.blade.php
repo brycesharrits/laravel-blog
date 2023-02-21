@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-@extends('layouts.app')
+@extends('layouts.article')
  
 @section('title', 'Test Post Page')
  
